@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "brasil-planos-saude": {
+      "command": "python",
+      "args": ["-m", "brasil_planos_saude_mcp.server"]
+    }
+  }
+}
